@@ -10,6 +10,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 public class TransactionService {
     private final Queue<Transaction> transactions = new ConcurrentLinkedQueue<>();
 
+
     public void addTransaction(Transaction transaction) {
         transactions.add(transaction);
     }

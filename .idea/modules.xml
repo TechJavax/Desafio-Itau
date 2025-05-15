@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/api_itau.iml" filepath="$PROJECT_DIR$/.idea/api_itau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Defasio Itau.iml" filepath="$PROJECT_DIR$/.idea/Defasio Itau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_itau/api_itau.iml" filepath="$PROJECT_DIR$/api_itau/api_itau.iml" />
     </modules>
   </component>
 </project>
