@@ -1,5 +1,5 @@
 
-# <API REST ITAU>
+# API REST ITAU
 
 ## 📘 Sobre a Aplicação
 
